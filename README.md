@@ -7,6 +7,7 @@
 
 ##
 
+<h4>Atualmente aprendendo</h4>
 <div style="display: inline_block"><br>
   <img align="center" alt="Ikaro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   -
@@ -23,8 +24,17 @@
  <a href="https://instagram.com/ikarus_sv" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href = "mailto:ikarovieiraa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/ikaro-vieira-b1692819b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<br>
+</div>
+
+##
 
 ![Snake animation](https://github.com/Ikarosv/Ikarosv/blob/output/github-contribution-grid-snake.svg)
 
+###
 
-</div>
+<div>
+<h4 align="center">Número de visitas :heart:</h4><br>
+
+<p align="center"><img alingn="center" src="https://profile-counter.glitch.me/Ikarosv/count.svg" />
+</div></p>
