@@ -1,10 +1,4 @@
 ### Oláá!! Eu sou Ikaro Vieira 👋
-
-- 📝 Tenho 17 anos.
-- 📱 Estou aprendendo e editando tudo pelo celular, porquê estou não tenho pc...
-Então tenham paciência cmg pls kkkk
-- 🌱 Atualmente estou aprendendo Python.
-- 😄 Pronome: ele/dele.
 <div>
   <a href="https://github.com/Ikarosv">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ikarosv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
