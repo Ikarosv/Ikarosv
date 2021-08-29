@@ -32,4 +32,5 @@ Então tenham paciência cmg pls kkkk
 
 ![Snake animation](https://github.com/Ikarosv/Ikarosv/blob/output/github-contribution-grid-snake.svg)
 
+
 </div>
