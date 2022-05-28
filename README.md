@@ -1,9 +1,9 @@
 ## Oláá!! Eu sou Ikaro Vieira 👋
-<ul>
-  <li><b>Desenvolvedor full-stack, júnior.</b></li>
-  <li><b>Atualmente aprendendo C#.</b></li>
-  <li><b>Hobby de GameDev.</b></li>
-</ul>
+
+  - **Desenvolvedor full-stack, júnior.**
+  - **Atualmente aprendendo C#.**
+  - **Hobby de GameDev.**
+  
 </br>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ikarosv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
