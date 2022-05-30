@@ -3,8 +3,7 @@
   - **Desenvolvedor full-stack, júnior.**
   - **Atualmente aprendendo C#.**
   - **Hobby de GameDev.**
-  
-</br>
+<br/>
 <div align="center">
   <a href="https://github.com/Ikarosv">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ikarosv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
