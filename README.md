@@ -1,6 +1,7 @@
 ## Oláá!! Eu sou Ikaro Vieira 👋
 
-  - **Desenvolvedor full-stack, júnior.**
+  - **Estudando Desenvolvimento Web na [Trybe](https://www.betrybe.com/)**
+  - **Desenvolvedor Full-Stack, Júnior.**
   - **Atualmente aprendendo C#.**
   - **Hobby de GameDev.**
 <br/>
