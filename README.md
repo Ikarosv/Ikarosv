@@ -1,9 +1,9 @@
 ## Oláá!! Eu sou Ikaro Vieira 👋
 
-  - **Studying Web Developent at [Trybe](https://www.betrybe.com/)**
-  - **Full-stack developer.**
+  - **Studying Web Developent at [Trybe](https://www.betrybe.com/)**;
+  - **Full-stack developer**;
   - **Currently learning: ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)**
-  - **Game Dev Hobby**
+  - **Game Dev Hobby**;
   - **My Currently Operational System: ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)**
 
 ##
