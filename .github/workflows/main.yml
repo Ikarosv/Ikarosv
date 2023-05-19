@@ -33,7 +33,7 @@ jobs:
           #                 Exactly 5 colors are expected.
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=blue
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=yellow
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
