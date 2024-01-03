@@ -1,6 +1,5 @@
 ## Hello!! I'm Ikaro Vieira 👋
 
-  - **Studying Web Developent at [Trybe](https://www.betrybe.com/)**;
   - **Full-stack developer**;
   - **Currently learning: ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)**
   - **Game Dev Hobby**;
