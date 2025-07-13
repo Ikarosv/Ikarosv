@@ -1,9 +1,7 @@
 ## Hello!! I'm Ikaro Vieira 👋
 
   - **Full-stack developer**;
-  - **Currently learning: ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)**
   - **Game Dev Hobby**;
-  - **My Currently Operational System: ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)**
 
 ##
 
